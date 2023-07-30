@@ -1,4 +1,4 @@
-#Welcome  to my React Portfolio Project
+## Welcome  to my React Portfolio Project
 
 ![screenshot 1](https://github.com/szabikaveres/Portfolio-Project/assets/114937278/33d9b366-f72c-49d3-a408-9c4234581933)
 
