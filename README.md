@@ -1,13 +1,11 @@
-# React Portfolio Project, multiple pages with dark mode
-
-## a portfolio for developers
+#Welcome  to my React Portfolio Project
 
 ![screenshot 1](https://github.com/szabikaveres/Portfolio-Project/assets/114937278/33d9b366-f72c-49d3-a408-9c4234581933)
 
 
 [View Live Template](https://bit.ly/szabikaveres)
 
-## features
+## Features
 
 🌑 Dark Mode Toggler
 
@@ -19,22 +17,22 @@
 
 ---
 
-## getting started
+## Getting started
 
-### prerequisites
+### Prerequisites
 
 - have [Git](https://git-scm.com/) installed on your machine
 - have [Node.js](https://nodejs.org/en/download/) installed on your machine
 - basic familiarity with your machine's command line
 - basic understanding of JSON data outline (arrays of objects basically)
 
-## how to use
+## How to clone :
 
 - fork the repository and clone locally
 - cd into the project and run `npm install` to install dependencies
 - once installation is complete, run `npm run start` to get your local copy running in the browser.
 
-## template instructions
+## Template instructions
 
 ### 1. replace the images
 
@@ -56,7 +54,7 @@
 ![screenshot 1](https://github.com/szabikaveres/Portfolio-Project/assets/114937278/33d9b366-f72c-49d3-a408-9c4234581933)
 
 
-#### mockups
+#### Mockups
 
 - add to the `img` folder up to 5 screenshots of projects you have completed to be added to your portfolio page. this
   can either be a regular screenshot, or you can create mockups like what are on the default template. I created these
@@ -68,7 +66,7 @@ example: ![](http://localhost:3000/static/media/mock5.7a3de7b6c7393f774688.png)
 
 ---
 
-### 2. edit `Info.js`
+### 2. Edit `Info.js`
 
 Next, open the project in your code editor. Navigate to `src/info/Info.js`. There are some instructions written in the
 comments there, but I will go over it all here as well:
@@ -118,24 +116,14 @@ And you're done!
 
 If you have any questions or issues with the setup process, feel free to contact me by any of the means below:
 
-[Twitter](https://twitter.com/paytoncodes) | paytontaylor96@gmail.com
+ szabikadigitalentrepreneur@gmail.com
 
 Or, use this repo and post an "issue" :)
 
 All that I ask is that you please credit me for the template :) If you'd like to remove the credit from the bottom of
 the site, go for it, just link my profile somewhere in your ReadMe when you deploy, or wherever.
 
-.•° ✿ °•.
-
-If you enjoyed this template and want to support my ability to make more of these,
-as well as creating video tutorials about React projects, writing articles about
-helpful developer tools, or you just want to be nice, feel free to
-support me on [Ko-Fi](https://ko-fi.com/paytoncodes)!
-
-If you have any suggestions for how to improve this template, the ReadMe guide, etc.
-please don't hesitate to reach out -- I will always happily accept constructive feedback!
-
-°•. ✿ .•°
+👊
 
 ---
 
@@ -160,50 +148,6 @@ The easiest way is to click on [this link](https://www.canva.com/design/DAEi4hwD
 
 ---
 
-##### examples of people using this template!
-
-[Alan Tram](https://atramucsd.github.io/My-Website/#/)
-
-[Irfan Balghari](https://irfanbalghari.netlify.app/)
-
-[Mete Karasakal](https://karasakalmt.dev/)
-
-[Igor Nascimento](https://inascim.github.io/)
-
-[Austin](https://ellerman4.github.io/)
-
-[Anshu Sharma](https://anshu-sharma.netlify.app/)
-
-[Humberto Dutra](https://humbertodutra.github.io/)
-
-[Mehmet Zorlu](https://mehmetzorlu07.github.io/Portfolio/)
-
-[Antti Tamminen](https://react-portfolio-template-41210wtc0-paytonjewell.vercel.app/)
-
-[Joseph A. Sangine](https://josephanthonysangine.com/)
-
-[Andrew VanOver](https://lustrous-bavarois-5a9a5e.netlify.app/)
-
-[Luca Martinelli](https://www.lucamartinelli.dev/)
-
-[Eugene](https://knst.me/)
-
-[Ajan JaiRam](https://ajanjairam.github.io/)
-
-[Leo Souquet](https://leosouquet.com/)
-
-[Bahrul Ulum](http://bahrulum.site/)
-
-[Pedro Fontes](https://pedrofontes.me/)
-
-[Laísa Rio](https://laisario.github.io/)
-
-[Akshay Mattoo](https://akshaymattoo.com/)
-
-[Alwin Ning](https://alwin-website.vercel.app/)
-
-[Hyun Woo](https://needon.kr/)
-
-[Dirk Kotze](https://dirkrkotze.com/)
-
-[Iuliia Sutygina](https://juliasut.github.io/portfolio/)
+<p>
+    Credit goes to <a href='https://paytonpierce.dev'>Payton Pierce</a>
+</p>
