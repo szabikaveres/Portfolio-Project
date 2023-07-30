@@ -12,7 +12,7 @@ export let colors = ["rgb(8,81,145)", "rgb(166,104,255)"];
 export const info = {
     firstName: "Szabika",
     lastName: "Veres",
-    initials: "vsz", 
+    // initials: "vsz", 
     position: "a Blockchain Developer",
     selfPortrait: self, 
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, 
@@ -101,8 +101,8 @@ export const info = {
         },
         {
             title: "Portfolio Project",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "#",
+            source: "https://github.com/szabikaveres/Portfolio-Project",
             image: mock2
         },
         // {
