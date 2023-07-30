@@ -2,9 +2,10 @@
 
 ## a portfolio for developers
 
-![screenshot](https://user-images.githubusercontent.com/18350557/179609620-847374a6-23e6-4432-b7a8-181d7d9bf026.png)
+![screenshot 1](https://github.com/szabikaveres/Portfolio-Project/assets/114937278/33d9b366-f72c-49d3-a408-9c4234581933)
 
-[View Live Template](https://reactportfoliotemplate.paytonpierce.dev/)
+
+[View Live Template](https://bit.ly/szabikaveres)
 
 ## features
 
@@ -15,11 +16,6 @@
 📱 Fully Responsive
 
 🎨 Modern Design
-
-💡 Perfect Lighthouse Score
-
-![screenshot of perfect lighthouse score](https://user-images.githubusercontent.com/18350557/179609620-847374a6-23e6-4432-b7a8-181d7d9bf026.png)
-
 
 ---
 
@@ -57,11 +53,8 @@
   reason, square images without too tall of an aspect-ratio work best.
 - example with background removed:
 
-![](https://user-images.githubusercontent.com/18350557/176955112-a84b32a6-ddfc-44c9-86e3-268e56654346.png)
+![screenshot 1](https://github.com/szabikaveres/Portfolio-Project/assets/114937278/33d9b366-f72c-49d3-a408-9c4234581933)
 
-- example with background not removed:
-
-![](https://user-images.githubusercontent.com/18350557/176955109-2c6251d4-a623-482a-9059-e186f32f7f2c.png)
 
 #### mockups
 
