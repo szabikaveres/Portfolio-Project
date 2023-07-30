@@ -48,7 +48,7 @@ export default function Navbar({darkMode, handleClick}) {
                     </Box>
                 ))}
         <li>
-          <a href="https://drive.google.com/file/d/1DKF6wB21lAeCf6nHbjH4UcrMeivE48-o/view?usp=drive_link">resume</a>
+          <a href="https://drive.google.com/file/d/1JR1Ir7Dj1atXr6nknvuiO5gfN0u-1t5y/view?usp=sharing">resume</a>
         </li>
         <li>
           <Toggler darkMode={darkMode} handleClick={handleClick} />

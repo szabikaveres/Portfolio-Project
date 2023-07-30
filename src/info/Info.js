@@ -101,7 +101,7 @@ export const info = {
         },
         {
             title: "Portfolio Project",
-            live: "#",
+            live: "https://bit.ly/szabikaveres",
             source: "https://github.com/szabikaveres/Portfolio-Project",
             image: mock2
         },
